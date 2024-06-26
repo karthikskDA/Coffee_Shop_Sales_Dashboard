@@ -8,6 +8,7 @@ The Coffee Shop Sales Project is an in-depth analysis of retail sales data aimed
 to boost the performance and profitability of the coffee shop locations.
 By examining various aspects of sales, we strive to understand customer behavior, optimize operational efficiency,
 and enhance overall sales strategies.
+
 **Insights:**
 🟢Total Sales:
  Total sales amount to $698.8K.
@@ -34,6 +35,7 @@ Sales data is broken down by each store location.
 
 🟢Monthly Sales by Store Location:
 The report shows monthly sales figures for different store locations.
+
 **Conclusion**
 The Coffee Shop Sales Project reveals that total sales reached $698.8K from 149.1K orders and 214.5K items sold. 
 Weekdays dominate with 72% of sales, highlighting their significance. 
