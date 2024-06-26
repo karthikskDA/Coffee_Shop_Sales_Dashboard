@@ -1,8 +1,10 @@
 # Coffee_Shop_Sales_Dashboard
 Power BI Dashboard on Coffee Shop Sales Analysis
 Introducing my latest Project: The Coffee Shop Sales Project.
+
 🔍 Project Objective:
 This initiative focuses on analyzing retail sales data to derive actionable insights aimed at boosting the Coffee Shop's performance.
+
 🔍Project Overview:
 The Coffee Shop Sales Project is an in-depth analysis of retail sales data aimed at uncovering actionable insights 
 to boost the performance and profitability of the coffee shop locations.
